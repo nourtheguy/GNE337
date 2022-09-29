@@ -1,0 +1,11 @@
+Model Information:
+* title:	Portal device
+* source:	https://sketchfab.com/3d-models/portal-device-65879a7541604124a5d46642f3438677
+* author:	lewis-clegg14 (https://sketchfab.com/lewis-clegg14)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Portal device" (https://sketchfab.com/3d-models/portal-device-65879a7541604124a5d46642f3438677) by lewis-clegg14 (https://sketchfab.com/lewis-clegg14) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
